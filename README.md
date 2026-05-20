@@ -1,7 +1,7 @@
 Hi, I'm Ian Waiguru 👋
 
 🚀 Aspiring DevOps & Automation Engineer
-IT student at Zetech University specializing in workflow optimization using n8n, python programming, and both frontend and backend automation.👩🏾‍💻
+IT student at Zetech University specializing in workflow optimization using n8n, bot creator, mobile applications developer, python programming, and both frontend and backend automation.👩🏾‍💻
 
 
 ## 🌐 Socials:

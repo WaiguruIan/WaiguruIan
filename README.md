@@ -3,6 +3,7 @@ Hi, I'm Ian Waiguru 👋
 🚀 Aspiring DevOps & Automation Engineer
 IT student at Zetech University specializing in workflow optimization using n8n, bot creator, mobile applications developer, python programming, and both frontend and backend automation.👩🏾‍💻
 
+**My Portfolio:** ***https://waiguru-ian-portfolio.pages.dev/***
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muchiriian2020@gmail.com) 
